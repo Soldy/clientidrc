@@ -1,0 +1,26 @@
+{
+  "name": "clientidrc",
+  "version": "0.0.1",
+  "description": "openid / oauth client id generator micro service",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Soldy/clientidrc.git"
+  },
+  "keywords": [
+    "fuckyou"
+  ],
+  "author": "soldy <4786022+Soldy@users.noreply.github.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Soldy/clientidrc/issues"
+  },
+  "homepage": "https://github.com/Soldy/clientidrc#readme",
+  "dependencies": {
+    "confrc": "^1.0.1-rc5",
+    "logrc": "0.0.4",
+    "statusrc": "0.0.1-dev20210114-2"
+  },
+  "devDependencies": {}
+}
