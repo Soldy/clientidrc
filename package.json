@@ -1,6 +1,6 @@
 {
   "name": "clientidrc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "openid / oauth client id generator micro service",
   "main": "index.js",
   "scripts": {},
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Soldy/clientidrc#readme",
   "dependencies": {
-    "confrc": "^1.0.1-rc5",
+    "confrc": "^1.0.i3",
     "logrc": "0.0.4",
     "statusrc": "0.0.1-dev20210114-2"
   },
